@@ -52,7 +52,7 @@ An independent React portfolio project based on earlier work for a government pr
 
 **Status:** Front-end development in progress. Purchasing and account flows are not yet implemented.
 
-## Earlier Project
+## Earlier Projects
 ### [PetGlobal](https://github.com/lcervant2/pet-global)
 
 A personal full-stack project connecting pet owners with pet-related businesses in Northern Virginia and Washington, D.C., using React, Node.js, Express, and MongoDB.
