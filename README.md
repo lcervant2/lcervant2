@@ -58,6 +58,11 @@ An independent React portfolio project based on earlier work for a government pr
 A command-line storefront and inventory project built with JavaScript, Node.js, and MySQL.
 
 This project represents earlier work with database-backed applications and terminal-based user interaction.
+### [Kairns](https://github.com/0n11san/Kairns)
+
+A collaborative hiking-app project designed to help users discover trails by location.
+
+**My contributions:** CSS styling, JavaScript development, and coordinating the creation and assignment of GitHub issues.
 
 ## Development Approach
 
