@@ -1,6 +1,6 @@
 # Luis N Cervantes
 
-### Full-Stack Developer focused on React · MBA · Owner, Aztecode LC
+### Full-Stack Developer focused on React · MBA · Owner, Aztecode LCC
 
 I build responsive websites with attention to business needs, clear navigation, and user experience.
 
