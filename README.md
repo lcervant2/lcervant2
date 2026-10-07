@@ -1,12 +1,12 @@
 # Luis N Cervantes
 
-### Full-Stack Developer focused on React · MBA · Owner, Aztecode LCC
+### Full-Stack Developer focused on React · MBA · Owner, Aztecode LLC
 
 I build responsive websites with attention to business needs, clear navigation, and user experience.
 
 My background combines full-stack software engineering training at George Washington University with an MBA from Johns Hopkins University and experience in business consulting, operations management, and international trade policy at USDA. I apply that experience to understanding business requirements, planning website features, and building clear, usable interfaces.
 
-Based in Virginia, I own Aztecode LCC and am preparing its future website at aztecode.com.
+Based in Virginia, I own Aztecode LLC and am preparing its future website at aztecode.com.
 
 ## Technologies
 
