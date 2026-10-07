@@ -53,6 +53,11 @@ An independent React portfolio project based on earlier work for a government pr
 **Status:** Front-end development in progress. Purchasing and account flows are not yet implemented.
 
 ## Earlier Project
+### [PetGlobal](https://github.com/lcervant2/pet-global)
+
+A personal full-stack project connecting pet owners with pet-related businesses in Northern Virginia and Washington, D.C., using React, Node.js, Express, and MongoDB.
+
+**My role:** I developed the project myself, with guidance from my professor and tutors.
 
 ### [Bamazon Store](https://github.com/lcervant2/bamazon-store)
 A command-line storefront and inventory project built with JavaScript, Node.js, and MySQL.
